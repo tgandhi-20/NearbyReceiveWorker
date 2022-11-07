@@ -1,0 +1,43 @@
+Limita viteza 20km/h
+Limita viteza 30km/h
+Limita viteza 50km/h
+Limita viteza 60km/h
+Limita viteza 70km/h
+Limita viteza 80km/h
+Incetare limitare viteza 80km/h
+Limita viteza 100km/h
+Limita viteza 120km/h
+Depasire interzisa
+Depasire interzisa camioane
+Drept de trecere
+Prioritate
+Cedeaza trecerea
+Stop
+Interzis pentru toate vehiculele
+Interzis pentru camioane
+Interzis
+Atentie
+Atentie curba la stanga
+Atentie curba la dreapta
+Atentie curbe, prima la stanga
+Atentie denivelari
+Atentie drum alunecos
+Atentie ingustare drum
+Atentie lucrari
+Atentie semafor
+Atentie pietoni
+Atentie copii
+Atentie biciclete
+Atentie gheata
+Atentie animale salbatice
+Restrictii incheiate
+Virat obligatoriu la dreapta
+Virat obligatoriu la stanga
+Mers obligatoriu inainte
+Mers obligatoriu inainte si la dreapta
+Mers obligatoriu inainte si la stanga
+Ocolire dreapta
+Ocolire stanga
+Sens giratoriu
+Incetare restrictie depasire interzisa
+Incetare restrictie depasire interzisa pentru camioane
